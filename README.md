@@ -15,7 +15,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
-<p align="center" width="100%">
+<p width="100%">
 <a href="https://github.com/klc-pakize">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klc-pakize&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klc-pakize&layout=compact&langs_count=8&theme=midnight-purple"/>
