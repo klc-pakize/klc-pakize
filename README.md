@@ -18,6 +18,6 @@
 <p align="center" width="100%">
 <a href="https://github.com/klc-pakize">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klc-pakize&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klc-pakize&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klc-pakize&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
