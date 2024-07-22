@@ -10,15 +10,6 @@
 <b>🤔 I'm looking for help with Flutter front-end developer</b><br/><br/>
 <b>🥅 Goals for 2023: Developing an application that will make its voice heard in the world 🌎 <br/><br/>
 <b>⚡ Fun fact: I love swimming 🏊‍♀️, shopping 🛍️ <br/><br/>
-
-
-
-
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"> <br/><br/>
-
-  
- 
   
  
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
@@ -31,11 +22,12 @@
 
 
 
+
 ## 🛠  Technologies and tools
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=5E35B1)![Django](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=5E35B1)![PostgreSql](https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=5E35B1)
 
-![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=5E35B1)![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=5E35B1)![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=AWS&logoColor=5E35B1)
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=5E35B1)![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=5E35B1)![Aws](https://img.shields.io/badge/aws-black.svg?style=for-the-badge&logo=aws&logoColor=5E35B1)
 
 
 
