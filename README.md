@@ -35,30 +35,30 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=android&logoColor=3DDC84" alt="Python logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=android&logoColor=3DDC84" alt="Python logo" title="Python" height="25" />
 &nbsp;
-[<img src="https://img.shields.io/badge/Django-282C34?logo=android&logoColor=3DDC84" alt="Django logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Django-282C34?logo=android&logoColor=3DDC84" alt="Django logo" title="Django" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Postgres-282C34?logo=android&logoColor=3DDC84" alt="Postgres logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Postgres-282C34?logo=android&logoColor=3DDC84" alt="Postgres logo" title="Postgres" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]
 &nbsp;
 
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Nodejs-282C34?logo=javascript&logoColor=F7DF1E" alt="Nodejs logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Nodejs-282C34?logo=javascript&logoColor=F7DF1E" alt="Nodejs logo" title="Nodejs" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/C#-282C34?logo=css3&logoColor=1572B6" alt="C# logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C#-282C34?logo=css3&logoColor=1572B6" alt="c# logo" title="c#" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=css3&logoColor=1572B6" alt="AWS logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=css3&logoColor=1572B6" alt="aws logo" title="aws" height="25" />]
 &nbsp;
 
 
