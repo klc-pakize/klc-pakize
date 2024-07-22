@@ -28,3 +28,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klc-pakize&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
+
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[www.linkedin.com/in/pakize-kilic]" />
