@@ -33,9 +33,9 @@
 
 ## 🛠  Technologies and tools
 
-![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=django&logoColor=white)![Postregsql](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=postregsql&logoColor=white)
+![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/django-hotpink.svg?style=for-the-badge&logo=django&logoColor=white)![Postregsql](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=postregsql&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-hotpink.svg?style=for-the-badge&logo=javascript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![AWS](https://img.shields.io/badge/AWS-4EA94B.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
 
 
