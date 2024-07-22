@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 <p>
@@ -22,7 +22,7 @@
 <hr>
 
 
-## 🛠  Technologies and tools
+## 🛠 Technologies
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=5E35B1)![Django](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=5E35B1)![PostgreSql](https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=5E35B1)
 
