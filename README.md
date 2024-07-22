@@ -33,32 +33,9 @@
 
 ## 🛠  Technologies and tools
 
-<a name="learning-now"></a>
+![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=django&logoColor=white)![Postregsql](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=postregsql&logoColor=white)
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=android&logoColor=3DDC84" alt="Python logo" title="Python" height="25" />
-&nbsp;
-[<img src="https://img.shields.io/badge/Django-282C34?logo=android&logoColor=3DDC84" alt="Django logo" title="Django" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/Postgres-282C34?logo=android&logoColor=3DDC84" alt="Postgres logo" title="Postgres" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]
-&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<a name="learning-next"></a>
-
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/Nodejs-282C34?logo=javascript&logoColor=F7DF1E" alt="Nodejs logo" title="Nodejs" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/C#-282C34?logo=css3&logoColor=1572B6" alt="c# logo" title="c#" height="25" />]
-&nbsp;
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=css3&logoColor=1572B6" alt="aws logo" title="aws" height="25" />]
-&nbsp;
 
 
