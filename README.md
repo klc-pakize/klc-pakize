@@ -33,9 +33,9 @@
 
 ## 🛠  Technologies and tools
 
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=purple)![Django](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=purple)![PostgreSql](https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=purple)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=5E35B1)![Django](https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=5E35B1)![PostgreSql](https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=5E35B1)
 
-![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=purple)![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=AWS&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=5E35B1)![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=5E35B1)![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=AWS&logoColor=5E35B1)
 
 
 
