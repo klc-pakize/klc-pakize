@@ -33,7 +33,7 @@
 
 ## 🛠  Technologies and tools
 
-![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/django-hotpink.svg?style=for-the-badge&logo=django&logoColor=white)![Postregsql](https://img.shields.io/badge/postresql-4EA94B.svg?style=for-the-badge&logo=postregsql&logoColor=white)
+![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/django-hotpink.svg?style=for-the-badge&logo=django&logoColor=white)![PostgreSql](https://img.shields.io/badge/postgresql-4EA94B.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-hotpink.svg?style=for-the-badge&logo=javascript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![AWS](https://img.shields.io/badge/AWS-4EA94B.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
