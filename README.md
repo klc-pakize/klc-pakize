@@ -5,11 +5,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /></a>
 </p>
 
-<b>🔭 I am currently looking for a good chance as a Front-end Developer or Back-end Developer🌱</b><br/><br/>
-<b>🌱 I'm currently learning</b> 😂<br/><br/>
-<b>🤔 I'm looking for help with Flutter front-end developer</b><br/><br/>
-<b>🥅 Goals for 2023: Developing an application that will make its voice heard in the world 🌎 <br/><br/>
-<b>⚡ Fun fact: I love swimming 🏊‍♀️, shopping 🛍️ <br/><br/>
+<p>I am a very enthusiastic and stable person who works by paying attention to details and being effective and fast in my working life. I am aware of the importance of human relations and that knowledge will increase as it is shared. I am aware that my careful and devoted work will definitely result in success.</p>
   
  
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
