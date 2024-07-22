@@ -29,4 +29,4 @@
 </a>
 </p>
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[www.linkedin.com/in/pakize-kilic]" />
+<img src="www.linkedin.com/in/pakize-kilic/?username=pakize-kilic"/>
