@@ -27,3 +27,7 @@
 
 
 
+
+<a href="https://www.linkedin.com/in/pakize-kilic/">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e"/>
+</a>
