@@ -5,10 +5,11 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /></a>
 </p>
 
-<p>I am a very enthusiastic and stable person who works by paying attention to details and being effective and fast in my working life. I am aware of the importance of human relations and that knowledge will increase as it is shared. I am aware that my careful and devoted work will definitely result in success.</p>
-
+<p>🌟 I am a very enthusiastic and stable person who works by paying attention to details and being effective and fast in my working life. 🏃‍♂️✨</p>
+<p>🤝 I am aware of the importance of human relations and that knowledge will increase as it is shared. 📚🔄</p>
+<p>🏆 I am aware that my careful and devoted work will definitely result in success. 💼📈</p>
   
-  <hr>
+<hr>
 
 
 <p align="center">
